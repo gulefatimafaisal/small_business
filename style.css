@@ -111,7 +111,7 @@ span{
 .hero{
     height: 100vh;
     min-height: 500px;
-    background-image: url(./images/banner.jpg);
+    background-image: url(./banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
